@@ -1,4 +1,4 @@
-# ClassificationNN-MindWave-Wheelchair
+# Classification NN MindWave Wheelchair
 
 Neural Network for classify EEG signal to control wheelchair. Using Muse as EEG sensor with gamma and beta signal. Process EEG data then input to the NN below
 
