@@ -2,7 +2,7 @@
 main.py program
 =============================================
 Description:
-Program ini merupakan program klasifikasi dan penerjemahan gelombang otak. Program mengklasifikasikan 4 gerakan motorik menjadi 4 kelas, dan melakukan prediksi data secara realtime. Gelombang otak yang digunakan yaitu gelombang beta (12-30Hz) dan gamma (30-44Hz).Program menerima dan menstream EEG Data yang dideteksi Muse EEG 2016 (menggunakan 4 channels : TP9, AF7, AF8, TP10).
+Program ini merupakan program klasifikasi dan penerjemahan gelombang otak. Program mengklasifikasikan 5 gerakan motorik menjadi 5 kelas, dan melakukan prediksi data secara realtime. Gelombang otak yang digunakan yaitu gelombang beta (12-30Hz) dan gamma (30-44Hz).Program menerima dan menstream EEG Data yang dideteksi Muse EEG 2016 (menggunakan 4 channels : TP9, AF7, AF8, TP10).
 """
 
 import argparse
